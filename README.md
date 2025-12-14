@@ -1,12 +1,25 @@
-# Student--Grade-calculator
-📌 Project: Student Grade Calculator , 
-→Takes marks for 3 subjects
-🔹 Calculates total and average 
-🔹 Assigns grade using if-else conditions  🛠 Skills Used: ✔ Python basics ✔ Input &amp; Output ✔ Conditional statements  I’m practicing Python daily and sharing my learning journey.
+# Student Grade Calculator
 
-#Python #BeginnerProject #LearningPython  #CodingJourney
+A beginner-friendly Python project to calculate student grades.
 
-#Student Grade Calculator,Each exam have 100 Marks
+## Description
+This program accepts marks for three subjects, calculates the total and average, and assigns a grade based on the average using conditional statements.
+
+## Features
+- Takes input for 3 subjects
+- Calculates total marks
+- Calculates average marks
+- Displays grade using if-else conditions
+
+## Technologies Used
+- Python
+
+## Purpose
+This project was created to practice basic Python concepts like input/output, arithmetic operations, and conditional logic.
+
+## Author
+Madhusudhana R
+
 Maths=int(input("Enter the obtained Maths exam Marks:"))
 Science=int(input("Enter the obtained Science exam Marks:"))
 Social=int(input("Enter the obtained Social exam Marks:"))
