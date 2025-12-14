@@ -20,6 +20,8 @@ This project was created to practice basic Python concepts like input/output, ar
 ## Author
 Madhusudhana R
 
+##CODE
+
 Maths=int(input("Enter the obtained Maths exam Marks:"))
 Science=int(input("Enter the obtained Science exam Marks:"))
 Social=int(input("Enter the obtained Social exam Marks:"))
