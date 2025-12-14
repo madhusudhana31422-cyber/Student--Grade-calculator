@@ -39,3 +39,11 @@ elif Average>=50:
 else:
      print("Fail.")
      
+## Sample Output
+Enter marks for subject 1: 80  
+Enter marks for subject 2: 75  
+Enter marks for subject 3: 85  
+
+Total: 240  
+Average: 80  
+Grade: A
